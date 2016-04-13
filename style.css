@@ -1,0 +1,110 @@
+.collapse {
+	position: relative;
+	top: 10px;
+}
+
+.nav li a {
+	color: black;
+	font-size: 12px;
+}
+
+.center {
+	position: relative;
+	left: 72px;
+}
+
+.navbar-right a {
+	padding: 20px;
+}
+
+.container {
+	max-width: 940;
+	width: 940;
+	padding: 0;
+}
+
+.content {
+	background-color: #fafafa;
+	text-align: center;
+}
+
+.copy {
+	font-family: Helvetica Neue;
+	font-size: 15px;
+	line-height: 20px;
+	color: #9B9B9B;
+}
+
+#path {
+	margin-top: 55px;
+	margin-bottom: 60px;
+}
+
+#path p {
+	text-align: left;
+	font-size: 13px;
+}
+
+.tagline {
+	font-family: Helvetica Neue;
+	font-size: 20px;
+	line-height: 28px;
+	color: #9B9B9B;
+	margin-bottom: 0;
+}
+
+#gallery {
+	margin: 50px 0 60px;
+}
+
+#gallery img {
+	height: 140px;
+	width: 140px;
+	padding: 0;
+}
+
+.first {
+	margin-right: 10px;
+}
+
+.middle {
+	margin: 0 10px;
+}
+
+.last {
+	margin-left: 10px;
+}
+
+.heading {
+	font-family: Palatino;
+	font-weight: bold;
+	font-size: 26px;
+	color: #4A4A4A;
+	margin-bottom: 25px;
+}
+
+.picture {
+	background: url('assets/our-story-bckg.png');
+	background-size: cover;
+	padding: 0;
+	height:	320px;
+	display: flex;
+	align-items: center;
+	margin-bottom: 35px;
+}
+
+.picture h2 {
+	color: white;
+	margin: auto;
+	width: 90%;
+	font-family: serif;
+}
+
+.bottom {
+	width: 630px;
+	margin: auto;
+}
+
+.bottom p {
+	margin-bottom: 0;
+}
