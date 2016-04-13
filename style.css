@@ -5,7 +5,7 @@
 
 .nav li a {
 	color: black;
-	font-size: 12px;
+	font-size: 13px;
 }
 
 .center {
@@ -29,7 +29,7 @@
 }
 
 .copy {
-	font-family: Helvetica Neue;
+	font-family: 'Helvetica Neue';
 	font-size: 15px;
 	line-height: 20px;
 	color: #9B9B9B;
@@ -46,7 +46,7 @@
 }
 
 .tagline {
-	font-family: Helvetica Neue;
+	font-family: 'Helvetica Neue';
 	font-size: 20px;
 	line-height: 28px;
 	color: #9B9B9B;
@@ -96,8 +96,8 @@
 .picture h2 {
 	color: white;
 	margin: auto;
-	width: 90%;
-	font-family: serif;
+	width: 88%;
+	font-family: Palatino;
 }
 
 .bottom {
