@@ -10,7 +10,7 @@
 
 .center {
 	position: relative;
-	left: 72px;
+	left: 65px;
 }
 
 .navbar-right a {
@@ -18,8 +18,9 @@
 }
 
 .container {
-	max-width: 940;
-	width: 940;
+	max-width: 940px;
+	width: 940px;
+	min-width: 940px;
 	padding: 0;
 }
 
